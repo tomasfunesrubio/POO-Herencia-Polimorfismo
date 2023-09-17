@@ -1,0 +1,21 @@
+C:\Users\Usuario\Desktop\Practica final POO\Programas final\Ultima practica final\Ultima practica final\bin\Debug\Ultima practica final.exe.config
+C:\Users\Usuario\Desktop\Practica final POO\Programas final\Ultima practica final\Ultima practica final\bin\Debug\Ultima practica final.exe
+C:\Users\Usuario\Desktop\Practica final POO\Programas final\Ultima practica final\Ultima practica final\bin\Debug\Ultima practica final.pdb
+C:\Users\Usuario\Desktop\Practica final POO\Programas final\Ultima practica final\Ultima practica final\obj\Debug\Ultima practica final.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Practica final POO\Programas final\Ultima practica final\Ultima practica final\obj\Debug\Ultima practica final.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Desktop\Practica final POO\Programas final\Ultima practica final\Ultima practica final\obj\Debug\Ultima_practica_final.Form1.resources
+C:\Users\Usuario\Desktop\Practica final POO\Programas final\Ultima practica final\Ultima practica final\obj\Debug\Ultima_practica_final.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Practica final POO\Programas final\Ultima practica final\Ultima practica final\obj\Debug\Ultima practica final.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Practica final POO\Programas final\Ultima practica final\Ultima practica final\obj\Debug\Ultima practica final.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Practica final POO\Programas final\Ultima practica final\Ultima practica final\obj\Debug\Ultima practica final.exe
+C:\Users\Usuario\Desktop\Practica final POO\Programas final\Ultima practica final\Ultima practica final\obj\Debug\Ultima practica final.pdb
+C:\Users\tomas\OneDrive\Desktop\Respaldo\Practica final POO\Programas final\Ultima practica final\Ultima practica final\bin\Debug\Ultima practica final.exe.config
+C:\Users\tomas\OneDrive\Desktop\Respaldo\Practica final POO\Programas final\Ultima practica final\Ultima practica final\bin\Debug\Ultima practica final.exe
+C:\Users\tomas\OneDrive\Desktop\Respaldo\Practica final POO\Programas final\Ultima practica final\Ultima practica final\bin\Debug\Ultima practica final.pdb
+C:\Users\tomas\OneDrive\Desktop\Respaldo\Practica final POO\Programas final\Ultima practica final\Ultima practica final\obj\Debug\Ultima practica final.csproj.AssemblyReference.cache
+C:\Users\tomas\OneDrive\Desktop\Respaldo\Practica final POO\Programas final\Ultima practica final\Ultima practica final\obj\Debug\Ultima_practica_final.Form1.resources
+C:\Users\tomas\OneDrive\Desktop\Respaldo\Practica final POO\Programas final\Ultima practica final\Ultima practica final\obj\Debug\Ultima_practica_final.Properties.Resources.resources
+C:\Users\tomas\OneDrive\Desktop\Respaldo\Practica final POO\Programas final\Ultima practica final\Ultima practica final\obj\Debug\Ultima practica final.csproj.GenerateResource.cache
+C:\Users\tomas\OneDrive\Desktop\Respaldo\Practica final POO\Programas final\Ultima practica final\Ultima practica final\obj\Debug\Ultima practica final.csproj.CoreCompileInputs.cache
+C:\Users\tomas\OneDrive\Desktop\Respaldo\Practica final POO\Programas final\Ultima practica final\Ultima practica final\obj\Debug\Ultima practica final.exe
+C:\Users\tomas\OneDrive\Desktop\Respaldo\Practica final POO\Programas final\Ultima practica final\Ultima practica final\obj\Debug\Ultima practica final.pdb
